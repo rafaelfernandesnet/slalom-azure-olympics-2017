@@ -1,0 +1,22 @@
+{
+  "name": "slalom-azure-olympics-2017",
+  "version": "1.0.0",
+  "description": "This repo is to be used by MJ and Raf during the Azure Olympics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelfernandesnet/slalom-azure-olympics-2017.git"
+  },
+  "author": "Rafael Fernandes <rafael.net.ca@gmail.com> (https://github.com/rafaelfernandesnet/fit-facebook)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelfernandesnet/slalom-azure-olympics-2017/issues"
+  },
+  "homepage": "https://github.com/rafaelfernandesnet/slalom-azure-olympics-2017#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
